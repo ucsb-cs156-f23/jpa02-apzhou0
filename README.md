@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-f23/jpa02-apzhou0
 
-Deployed at: https://jpa02-apzhou0.dokku-12.cs.ucsb.edu/
+Deployed at: http://jpa02-apzhou0.dokku-12.cs.ucsb.edu/
 
 # About this repo
 
